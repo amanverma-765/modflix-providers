@@ -13,7 +13,7 @@ def save_domains(data):
 
 def get_final_url(start_url):
     try:
-        response = requests.get(start_url, timeout=10, allow_redirects=True)
+        response = requests.get(start_url, timeout=60, allow_redirects=True)
         final_url = response.url
         # Remove trailing slash if present
         if final_url.endswith('/'):
