@@ -1,0 +1,17 @@
+[
+    {
+        "key": "vega",
+        "name": "Vegamovies",
+        "url": "https://vegamovies.rs"
+    },
+    {
+        "key": "lux",
+        "name": "LuxMovies",
+        "url": "https://luxmovies.diy"
+    },
+    {
+        "key": "filepress",
+        "name": "FilePress",
+        "url": "https://new3.filepress.ink"
+    }
+]
