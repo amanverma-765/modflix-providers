@@ -2,7 +2,7 @@
     {
         "key": "vega",
         "name": "Vegamovies",
-        "url": "https://vegamovies.rs"
+        "url": "https://vegamovies.band"
     },
     {
         "key": "lux",
@@ -12,6 +12,6 @@
     {
         "key": "filepress",
         "name": "FilePress",
-        "url": "https://new3.filepress.ink"
+        "url": "https://new4.filepress.ink"
     }
 ]
