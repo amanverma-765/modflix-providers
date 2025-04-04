@@ -30,7 +30,7 @@ jobs:
       - name: Commit and push changes
         run: |
           git config user.name "GitHub Action Bot"
-          git config user.email "bot@users.noreply.github.com"
+          git config user.email "akverma4aman@gmail.com"
           git add modflix.json
           git commit -m "🔄 Update domain URLs [auto]" || echo "No changes to commit"
           git push
